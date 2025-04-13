@@ -22,6 +22,26 @@ const notes = [
       title: "Hardware vs. Software",
       content:
         "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software."
+    },
+    {
+    key: 5,
+    title: "JavaScript",
+    content:
+        "Why do Java developers wear glasses? Because they don't see sharp."
+    },
+    {
+    key: 6,
+    title: "Python",
+    content:
+        "Why do Python programmers prefer dark mode? Because light attracts bugs."
+    },
+    {
+    key: 7,
+    title: "HTML",
+    content:
+        "Why did the web developer go broke? Because he used up all his cache."
     }
   ];
+
+  export default notes;
   
